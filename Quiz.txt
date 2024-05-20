@@ -6,3 +6,11 @@ c.Data Storytelling and Visualization
 d.Semua benar
 Jawaban (d)
 
+Kolom yang akan dihapus
+Kolom mana sajakah yang perlu dihapus dari dataframe df?
+a.Kolom 'no', 'Row_Num', dan 'Customer_ID'
+b.Kolom 'no' dan 'Customer_ID'
+c.Kolom 'no' dan 'Row_Num'
+d.Kolom 'no', 'Row_Num', 'Customer_ID', dan 'Product'
+Jawaban (c)
+
